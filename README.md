@@ -1,10 +1,4 @@
-# Mahtabuzzaman Shabbir
-
-Data/Analytics Engineer · Azure · Fabric · Python · Dhaka, Bangladesh
-
----
-
-Building data platforms on the Microsoft stack — ETL/ELT pipelines, data warehouses, semantic layers, and CI/CD for data. Working with US-based clients at a Microsoft Solution Partner.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&vCenter=true&width=500&lines=Mahtabuzzaman+Shabbir;Data+Engineer+%C2%B7+Azure+%C2%B7+Fabric+%C2%B7+Python)](https://git.io/typing-svg)
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
@@ -15,6 +9,8 @@ Building data platforms on the Microsoft stack — ETL/ELT pipelines, data wareh
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
-**Certs:** DP-700 · DP-600 · AZ-500 · ITEE-FE (Level 2)
+---
 
-[LinkedIn](https://linkedin.com/in/mahtabuzzaman)
+**DP-700** · **DP-600** · **AZ-500** · **ITEE-FE**
+
+[LinkedIn](https://linkedin.com/in/mahtabuzzaman) · Dhaka, Bangladesh

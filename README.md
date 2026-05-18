@@ -2,9 +2,7 @@
 
 Building data platforms on the Microsoft stack.
 
-<picture>
-  <img alt="skills" src="skills-bounce.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/mahtabuzzaman/mahtabuzzaman/main/skills-bounce.svg" width="100%" alt="skills"/>
 
 **DP-700** · **DP-600** · **AZ-500** · **ITEE-FE**
 

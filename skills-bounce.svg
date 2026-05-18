@@ -1,112 +1,239 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+
+  <!-- Azure -->
   <g>
-    <rect width="68" height="28" rx="6" fill="#0078D4">
-      <animate attributeName="x" values="0;732;0" dur="19s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="0;152;0" dur="11.3s" repeatCount="indefinite"/>
+    <rect width="80" height="28" rx="6" fill="#0078D4">
+      <animate attributeName="x" values="0;720;0" dur="32s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;92;0" dur="21s" repeatCount="indefinite"/>
     </rect>
+    <g transform="scale(0.58)">
+      <path fill="white" d="M13.05 4.24L7.4 18.5l4.13 0L22.6 4.24zM14.5 4.24L5.07 18.5H0l9.93-14.26z">
+        <animate attributeName="transform" values="translate(14,12);translate(1254,170);translate(14,12)" dur="32s" repeatCount="indefinite"/>
+      </path>
+    </g>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="34;766;34" dur="19s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="14;166;14" dur="11.3s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="48;768;48" dur="32s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="14;106;14" dur="21s" repeatCount="indefinite"/>
       Azure
     </text>
   </g>
+
+  <!-- MS Fabric - using Microsoft icon -->
   <g>
-    <rect width="68" height="28" rx="6" fill="#742774">
-      <animate attributeName="x" values="200;732;200" dur="22s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="40;152;40" dur="13.7s" repeatCount="indefinite"/>
+    <rect width="90" height="28" rx="6" fill="#742774">
+      <animate attributeName="x" values="200;710;200" dur="35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="40;92;0;92;40" dur="24s" repeatCount="indefinite"/>
     </rect>
+    <g>
+      <rect width="6" height="6" rx="0.5" fill="white">
+        <animate attributeName="x" values="208;718;208" dur="35s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="47;99;7;99;47" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect width="6" height="6" rx="0.5" fill="white">
+        <animate attributeName="x" values="216;726;216" dur="35s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="47;99;7;99;47" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect width="6" height="6" rx="0.5" fill="white">
+        <animate attributeName="x" values="208;718;208" dur="35s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="55;107;15;107;55" dur="24s" repeatCount="indefinite"/>
+      </rect>
+      <rect width="6" height="6" rx="0.5" fill="white">
+        <animate attributeName="x" values="216;726;216" dur="35s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="55;107;15;107;55" dur="24s" repeatCount="indefinite"/>
+      </rect>
+    </g>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="234;766;234" dur="22s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="54;166;54" dur="13.7s" repeatCount="indefinite"/>
-      Fabric
+      <animate attributeName="x" values="255;765;255" dur="35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="54;106;14;106;54" dur="24s" repeatCount="indefinite"/>
+      MS Fabric
     </text>
   </g>
+
+  <!-- Python -->
   <g>
-    <rect width="68" height="28" rx="6" fill="#3776AB">
-      <animate attributeName="x" values="400;732;0;732;400" dur="25s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="100;152;0;152;100" dur="15.1s" repeatCount="indefinite"/>
+    <rect width="80" height="28" rx="6" fill="#3776AB">
+      <animate attributeName="x" values="400;720;0;720;400" dur="38s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="70;92;0;92;70" dur="26s" repeatCount="indefinite"/>
     </rect>
+    <g>
+      <path fill="#FFD43B" d="M0 0C0 0-.1-1.3.8-1.8 1.7-2.3 3-2 3-2L3 0 0 0zM0 .5C0 .5-.1 1.8.8 2.3 1.7 2.8 3 2.5 3 2.5L3 .5 0 .5z" transform="scale(3.5)">
+        <animate attributeName="transform" values="translate(410,76) scale(3.5);translate(730,98) scale(3.5);translate(10,6) scale(3.5);translate(730,98) scale(3.5);translate(410,76) scale(3.5)" dur="38s" repeatCount="indefinite"/>
+      </path>
+    </g>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="434;766;34;766;434" dur="25s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="114;166;14;166;114" dur="15.1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="448;768;48;768;448" dur="38s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="84;106;14;106;84" dur="26s" repeatCount="indefinite"/>
       Python
     </text>
   </g>
+
+  <!-- SQL - database icon -->
   <g>
-    <rect width="55" height="28" rx="6" fill="#CC2927">
-      <animate attributeName="x" values="80;745;80" dur="17.3s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="130;0;152;0;130" dur="18.9s" repeatCount="indefinite"/>
+    <rect width="65" height="28" rx="6" fill="#CC2927">
+      <animate attributeName="x" values="80;735;80" dur="29s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="80;0;92;0;80" dur="31s" repeatCount="indefinite"/>
     </rect>
+    <g>
+      <ellipse cx="0" cy="0" rx="5" ry="2.5" fill="none" stroke="white" stroke-width="1.2">
+        <animate attributeName="cx" values="93;748;93" dur="29s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="87;7;99;7;87" dur="31s" repeatCount="indefinite"/>
+      </ellipse>
+      <rect width="10" height="8" fill="none" stroke="white" stroke-width="1.2" rx="0">
+        <animate attributeName="x" values="88;743;88" dur="29s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="87;7;99;7;87" dur="31s" repeatCount="indefinite"/>
+      </rect>
+      <ellipse cx="0" cy="0" rx="5" ry="2.5" fill="none" stroke="white" stroke-width="1.2">
+        <animate attributeName="cx" values="93;748;93" dur="29s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="95;15;107;15;95" dur="31s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="107;772;107" dur="17.3s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="144;14;166;14;144" dur="18.9s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="120;775;120" dur="29s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="94;14;106;14;94" dur="31s" repeatCount="indefinite"/>
       SQL
     </text>
   </g>
+
+  <!-- Power BI - bar chart icon -->
   <g>
-    <rect width="50" height="28" rx="6" fill="#FF694B">
-      <animate attributeName="x" values="600;0;750;0;600" dur="23.7s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="20;152;20" dur="12.1s" repeatCount="indefinite"/>
+    <rect width="85" height="28" rx="6" fill="#F2C811">
+      <animate attributeName="x" values="500;715;0;715;500" dur="34s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="20;92;20" dur="23s" repeatCount="indefinite"/>
     </rect>
-    <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="625;25;775;25;625" dur="23.7s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="34;166;34" dur="12.1s" repeatCount="indefinite"/>
-      dbt
-    </text>
-  </g>
-  <g>
-    <rect width="75" height="28" rx="6" fill="#F2C811">
-      <animate attributeName="x" values="300;725;0;725;300" dur="21.1s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="70;152;0;152;70" dur="16.3s" repeatCount="indefinite"/>
-    </rect>
+    <g>
+      <rect width="3" height="6" fill="#333" rx="0.5">
+        <animate attributeName="x" values="508;723;8;723;508" dur="34s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="31;103;31" dur="23s" repeatCount="indefinite"/>
+      </rect>
+      <rect width="3" height="10" fill="#333" rx="0.5">
+        <animate attributeName="x" values="513;728;13;728;513" dur="34s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="27;99;27" dur="23s" repeatCount="indefinite"/>
+      </rect>
+      <rect width="3" height="14" fill="#333" rx="0.5">
+        <animate attributeName="x" values="518;733;18;733;518" dur="34s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="23;95;23" dur="23s" repeatCount="indefinite"/>
+      </rect>
+    </g>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="#333" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="337;762;37;762;337" dur="21.1s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="84;166;14;166;84" dur="16.3s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="550;765;50;765;550" dur="34s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="34;106;34" dur="23s" repeatCount="indefinite"/>
       Power BI
     </text>
   </g>
+
+  <!-- dbt - triangle -->
   <g>
-    <rect width="85" height="28" rx="6" fill="#012456">
-      <animate attributeName="x" values="500;715;0;715;500" dur="26.3s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="5;152;5" dur="14.7s" repeatCount="indefinite"/>
+    <rect width="60" height="28" rx="6" fill="#FF694B">
+      <animate attributeName="x" values="600;0;740;0;600" dur="37s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="50;92;0;92;50" dur="28s" repeatCount="indefinite"/>
     </rect>
+    <polygon points="0,-6 5.2,3 -5.2,3" fill="white">
+      <animate attributeName="transform" values="translate(615,64);translate(15,106);translate(755,14);translate(15,106);translate(615,64)" dur="37s" repeatCount="indefinite"/>
+    </polygon>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="542;757;42;757;542" dur="26.3s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="19;166;19" dur="14.7s" repeatCount="indefinite"/>
-      PowerShell
+      <animate attributeName="x" values="638;38;778;38;638" dur="37s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="64;106;14;106;64" dur="28s" repeatCount="indefinite"/>
+      dbt
     </text>
   </g>
+
+  <!-- Azure DevOps - infinity loop -->
   <g>
-    <rect width="70" height="28" rx="6" fill="#0078D7">
-      <animate attributeName="x" values="700;0;730;0;700" dur="24.1s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="110;0;152;0;110" dur="19.3s" repeatCount="indefinite"/>
+    <rect width="100" height="28" rx="6" fill="#0078D7">
+      <animate attributeName="x" values="650;0;700;0;650" dur="40s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="10;92;10" dur="22s" repeatCount="indefinite"/>
     </rect>
+    <path d="M-6,0 C-6,-4 -2,-4 0,0 C2,4 6,4 6,0 C6,-4 2,-4 0,0 C-2,4 -6,4 -6,0Z" fill="none" stroke="white" stroke-width="1.5">
+      <animate attributeName="transform" values="translate(668,24);translate(18,106);translate(718,24);translate(18,106);translate(668,24)" dur="40s" repeatCount="indefinite"/>
+    </path>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="735;35;765;35;735" dur="24.1s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="124;14;166;14;124" dur="19.3s" repeatCount="indefinite"/>
-      DevOps
+      <animate attributeName="x" values="710;60;760;60;710" dur="40s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="24;106;24" dur="22s" repeatCount="indefinite"/>
+      Azure DevOps
     </text>
   </g>
+
+  <!-- Analytics - line chart -->
   <g>
-    <rect width="50" height="28" rx="6" fill="#1B6B3A">
-      <animate attributeName="x" values="150;750;150" dur="20.7s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="60;152;0;152;60" dur="17.1s" repeatCount="indefinite"/>
+    <rect width="85" height="28" rx="6" fill="#E97627">
+      <animate attributeName="x" values="350;715;350" dur="36s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="30;92;0;92;30" dur="25s" repeatCount="indefinite"/>
     </rect>
+    <polyline points="0,6 4,2 8,5 12,0" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="transform" values="translate(358,39);translate(723,101);translate(358,9);translate(723,101);translate(358,39)" dur="36s" repeatCount="indefinite"/>
+    </polyline>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="175;775;175" dur="20.7s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="74;166;14;166;74" dur="17.1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="400;765;400" dur="36s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="44;106;14;106;44" dur="25s" repeatCount="indefinite"/>
+      Analytics
+    </text>
+  </g>
+
+  <!-- DAX -->
+  <g>
+    <rect width="58" height="28" rx="6" fill="#1B6B3A">
+      <animate attributeName="x" values="150;742;150" dur="33s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="60;0;92;0;60" dur="27s" repeatCount="indefinite"/>
+    </rect>
+    <text font-family="Segoe UI,sans-serif" font-size="9" fill="rgba(255,255,255,0.5)" font-weight="700" text-anchor="middle" dominant-baseline="central">
+      <animate attributeName="x" values="165;757;165" dur="33s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="71;11;103;11;71" dur="27s" repeatCount="indefinite"/>
+      ƒx
+    </text>
+    <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
+      <animate attributeName="x" values="183;775;183" dur="33s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="74;14;106;14;74" dur="27s" repeatCount="indefinite"/>
       DAX
     </text>
   </g>
+
+  <!-- Git -->
   <g>
-    <rect width="48" height="28" rx="6" fill="#F05032">
-      <animate attributeName="x" values="50;752;50" dur="18.9s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="90;0;152;0;90" dur="15.9s" repeatCount="indefinite"/>
+    <rect width="60" height="28" rx="6" fill="#F05032">
+      <animate attributeName="x" values="50;740;50" dur="30s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="90;0;92;0;90" dur="29s" repeatCount="indefinite"/>
     </rect>
+    <g>
+      <circle cx="0" cy="0" r="2" fill="white">
+        <animate attributeName="cx" values="63;753;63" dur="30s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="98;8;100;8;98" dur="29s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="0" cy="0" r="2" fill="white">
+        <animate attributeName="cx" values="73;763;73" dur="30s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="100;10;102;10;100" dur="29s" repeatCount="indefinite"/>
+      </circle>
+      <line stroke="white" stroke-width="1.2">
+        <animate attributeName="x1" values="65;755;65" dur="30s" repeatCount="indefinite"/>
+        <animate attributeName="y1" values="98;8;100;8;98" dur="29s" repeatCount="indefinite"/>
+        <animate attributeName="x2" values="71;761;71" dur="30s" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="100;10;102;10;100" dur="29s" repeatCount="indefinite"/>
+      </line>
+    </g>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="74;776;74" dur="18.9s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="104;14;166;14;104" dur="15.9s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="88;778;88" dur="30s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="104;14;106;14;104" dur="29s" repeatCount="indefinite"/>
       Git
+    </text>
+  </g>
+
+  <!-- PowerShell -->
+  <g>
+    <rect width="95" height="28" rx="6" fill="#012456">
+      <animate attributeName="x" values="250;705;0;705;250" dur="39s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="5;92;5" dur="20s" repeatCount="indefinite"/>
+    </rect>
+    <g>
+      <polyline points="0,0 5,4 0,8" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <animate attributeName="transform" values="translate(258,11);translate(713,98);translate(8,11);translate(713,98);translate(258,11)" dur="39s" repeatCount="indefinite"/>
+      </polyline>
+      <line x1="0" y1="0" x2="5" y2="0" stroke="white" stroke-width="1.5" stroke-linecap="round">
+        <animate attributeName="transform" values="translate(264,21);translate(719,108);translate(14,21);translate(719,108);translate(264,21)" dur="39s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
+      <animate attributeName="x" values="308;763;58;763;308" dur="39s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="19;106;19" dur="20s" repeatCount="indefinite"/>
+      PowerShell
     </text>
   </g>
 </svg>

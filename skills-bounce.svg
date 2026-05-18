@@ -1,184 +1,122 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 120" width="800" height="120">
-
-  <!-- Azure -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
   <g>
-    <rect width="80" height="28" rx="6" fill="#0078D4">
-      <animate attributeName="x" values="0;720;0" dur="32s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="0;92;0" dur="21s" repeatCount="indefinite"/>
+    <rect width="65" height="26" rx="6" fill="#0078D4">
+      <animate attributeName="x" values="0;735;0" dur="32s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;94;0" dur="21s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/microsoftazure/white" width="14" height="14">
-      <animate attributeName="x" values="8;728;8" dur="32s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="7;99;7" dur="21s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="48;768;48" dur="32s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="14;106;14" dur="21s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="32;767;32" dur="32s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="13;107;13" dur="21s" repeatCount="indefinite"/>
       Azure
     </text>
   </g>
-
-  <!-- MS Fabric -->
   <g>
-    <rect width="90" height="28" rx="6" fill="#742774">
-      <animate attributeName="x" values="200;710;200" dur="35s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="40;92;0;92;40" dur="24s" repeatCount="indefinite"/>
+    <rect width="80" height="26" rx="6" fill="#742774">
+      <animate attributeName="x" values="200;720;200" dur="35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="40;94;0;94;40" dur="24s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/microsoft/white" width="14" height="14">
-      <animate attributeName="x" values="208;718;208" dur="35s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="47;99;7;99;47" dur="24s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="252;762;252" dur="35s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="54;106;14;106;54" dur="24s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="240;760;240" dur="35s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="53;107;13;107;53" dur="24s" repeatCount="indefinite"/>
       MS Fabric
     </text>
   </g>
-
-  <!-- Python -->
   <g>
-    <rect width="80" height="28" rx="6" fill="#3776AB">
-      <animate attributeName="x" values="400;720;0;720;400" dur="38s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="70;92;0;92;70" dur="26s" repeatCount="indefinite"/>
+    <rect width="65" height="26" rx="6" fill="#3776AB">
+      <animate attributeName="x" values="400;735;0;735;400" dur="38s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="70;94;0;94;70" dur="26s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/python/white" width="14" height="14">
-      <animate attributeName="x" values="408;728;8;728;408" dur="38s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="77;99;7;99;77" dur="26s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="448;768;48;768;448" dur="38s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="84;106;14;106;84" dur="26s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="432;767;32;767;432" dur="38s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="83;107;13;107;83" dur="26s" repeatCount="indefinite"/>
       Python
     </text>
   </g>
-
-  <!-- SQL -->
   <g>
-    <rect width="65" height="28" rx="6" fill="#CC2927">
-      <animate attributeName="x" values="80;735;80" dur="29s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="80;0;92;0;80" dur="31s" repeatCount="indefinite"/>
+    <rect width="50" height="26" rx="6" fill="#CC2927">
+      <animate attributeName="x" values="80;750;80" dur="29s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="80;0;94;0;80" dur="31s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/microsoftsqlserver/white" width="14" height="14">
-      <animate attributeName="x" values="88;743;88" dur="29s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="87;7;99;7;87" dur="31s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="120;775;120" dur="29s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="94;14;106;14;94" dur="31s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="105;775;105" dur="29s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="93;13;107;13;93" dur="31s" repeatCount="indefinite"/>
       SQL
     </text>
   </g>
-
-  <!-- Power BI -->
   <g>
-    <rect width="85" height="28" rx="6" fill="#F2C811">
-      <animate attributeName="x" values="500;715;0;715;500" dur="34s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="20;92;20" dur="23s" repeatCount="indefinite"/>
+    <rect width="75" height="26" rx="6" fill="#F2C811">
+      <animate attributeName="x" values="500;725;0;725;500" dur="34s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="20;94;20" dur="23s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/powerbi/333333" width="14" height="14">
-      <animate attributeName="x" values="508;723;8;723;508" dur="34s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="27;99;27" dur="23s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="#333" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="550;765;50;765;550" dur="34s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="34;106;34" dur="23s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="537;762;37;762;537" dur="34s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="33;107;33" dur="23s" repeatCount="indefinite"/>
       Power BI
     </text>
   </g>
-
-  <!-- dbt -->
   <g>
-    <rect width="60" height="28" rx="6" fill="#FF694B">
-      <animate attributeName="x" values="600;0;740;0;600" dur="37s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="50;92;0;92;50" dur="28s" repeatCount="indefinite"/>
+    <rect width="50" height="26" rx="6" fill="#FF694B">
+      <animate attributeName="x" values="600;0;750;0;600" dur="37s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="50;94;0;94;50" dur="28s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/dbt/white" width="14" height="14">
-      <animate attributeName="x" values="608;8;748;8;608" dur="37s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="57;99;7;99;57" dur="28s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="638;38;778;38;638" dur="37s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="64;106;14;106;64" dur="28s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="625;25;775;25;625" dur="37s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="63;107;13;107;63" dur="28s" repeatCount="indefinite"/>
       dbt
     </text>
   </g>
-
-  <!-- Azure DevOps -->
   <g>
-    <rect width="100" height="28" rx="6" fill="#0078D7">
-      <animate attributeName="x" values="650;0;700;0;650" dur="40s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="10;92;10" dur="22s" repeatCount="indefinite"/>
+    <rect width="95" height="26" rx="6" fill="#0078D7">
+      <animate attributeName="x" values="650;0;705;0;650" dur="40s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="10;94;10" dur="22s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/azuredevops/white" width="14" height="14">
-      <animate attributeName="x" values="658;8;708;8;658" dur="40s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="17;99;17" dur="22s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="708;58;758;58;708" dur="40s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="24;106;24" dur="22s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="697;47;752;47;697" dur="40s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="23;107;23" dur="22s" repeatCount="indefinite"/>
       Azure DevOps
     </text>
   </g>
-
-  <!-- Analytics -->
   <g>
-    <rect width="85" height="28" rx="6" fill="#E97627">
-      <animate attributeName="x" values="350;715;350" dur="36s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="30;92;0;92;30" dur="25s" repeatCount="indefinite"/>
+    <rect width="75" height="26" rx="6" fill="#E97627">
+      <animate attributeName="x" values="350;725;350" dur="36s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="30;94;0;94;30" dur="25s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/googleanalytics/white" width="14" height="14">
-      <animate attributeName="x" values="358;723;358" dur="36s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="37;99;7;99;37" dur="25s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="400;765;400" dur="36s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="44;106;14;106;44" dur="25s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="387;762;387" dur="36s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="43;107;13;107;43" dur="25s" repeatCount="indefinite"/>
       Analytics
     </text>
   </g>
-
-  <!-- DAX -->
   <g>
-    <rect width="58" height="28" rx="6" fill="#1B6B3A">
-      <animate attributeName="x" values="150;742;150" dur="33s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="60;0;92;0;60" dur="27s" repeatCount="indefinite"/>
+    <rect width="50" height="26" rx="6" fill="#1B6B3A">
+      <animate attributeName="x" values="150;750;150" dur="33s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="60;0;94;0;60" dur="27s" repeatCount="indefinite"/>
     </rect>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="179;771;179" dur="33s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="74;14;106;14;74" dur="27s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="175;775;175" dur="33s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="73;13;107;13;73" dur="27s" repeatCount="indefinite"/>
       DAX
     </text>
   </g>
-
-  <!-- Git -->
   <g>
-    <rect width="60" height="28" rx="6" fill="#F05032">
-      <animate attributeName="x" values="50;740;50" dur="30s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="90;0;92;0;90" dur="29s" repeatCount="indefinite"/>
+    <rect width="48" height="26" rx="6" fill="#F05032">
+      <animate attributeName="x" values="50;752;50" dur="30s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="90;0;94;0;90" dur="29s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/git/white" width="14" height="14">
-      <animate attributeName="x" values="58;748;58" dur="30s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="97;7;99;7;97" dur="29s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="88;778;88" dur="30s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="104;14;106;14;104" dur="29s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="74;776;74" dur="30s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="103;13;107;13;103" dur="29s" repeatCount="indefinite"/>
       Git
     </text>
   </g>
-
-  <!-- PowerShell -->
   <g>
-    <rect width="90" height="28" rx="6" fill="#012456">
-      <animate attributeName="x" values="250;710;0;710;250" dur="39s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="5;92;5" dur="20s" repeatCount="indefinite"/>
+    <rect width="85" height="26" rx="6" fill="#012456">
+      <animate attributeName="x" values="250;715;0;715;250" dur="39s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="5;94;5" dur="20s" repeatCount="indefinite"/>
     </rect>
-    <image href="https://cdn.simpleicons.org/powershell/white" width="14" height="14">
-      <animate attributeName="x" values="258;718;8;718;258" dur="39s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="12;99;12" dur="20s" repeatCount="indefinite"/>
-    </image>
     <text font-family="Segoe UI,sans-serif" font-size="11" fill="white" font-weight="600" text-anchor="middle" dominant-baseline="central">
-      <animate attributeName="x" values="303;763;53;763;303" dur="39s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="19;106;19" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="292;757;42;757;292" dur="39s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="18;107;18" dur="20s" repeatCount="indefinite"/>
       PowerShell
     </text>
   </g>
